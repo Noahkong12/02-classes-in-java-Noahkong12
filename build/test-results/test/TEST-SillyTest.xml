@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SillyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-16T07:39:43" hostname="Xiangxuans-Air" time="0.02">
+  <properties/>
+  <testcase name="testTask1" classname="SillyTest" time="0.011"/>
+  <testcase name="testTask2" classname="SillyTest" time="0.007"/>
+  <testcase name="testTask3" classname="SillyTest" time="0.001"/>
+  <testcase name="testTask4" classname="SillyTest" time="0.001"/>
+  <testcase name="testTask5" classname="SillyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
